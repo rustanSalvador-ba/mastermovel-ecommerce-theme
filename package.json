@@ -1,8 +1,7 @@
 {
-  "name": "corona",
+  "name": "animalride",
   "version": "1.0.0",
-  "type": "module",
-  "description": "corona_warface",
+  "description": "Animal Ride",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
